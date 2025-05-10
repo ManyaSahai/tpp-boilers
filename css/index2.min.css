@@ -4,7 +4,6 @@
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   outline: 0;
-  color: black;
 }
 html {
   scroll-behavior: smooth;
@@ -228,7 +227,7 @@ h6 {
   line-height: 1;
   font-family: Poppins, sans-serif;
   position: relative;
-  color: #000000;
+  color: #047a8a;
 }
 .link--arrow {
   display: -webkit-inline-box;
@@ -1097,7 +1096,7 @@ input[type="number"] {
   width: 32px;
 }
 .header_nav-tel {
-  color: #000000;
+  color: #fff;
   font-weight: 500;
 }
 .header_nav-wrapper {
@@ -1108,7 +1107,7 @@ input[type="number"] {
   gap: 15px;
   font-family: Poppins, sans-serif;
   font-weight: 500;
-  color: #000000;
+  color: #fff;
   height: 100vh;
   overflow-y: auto;
 }
@@ -1124,7 +1123,7 @@ input[type="number"] {
 }
 .header_nav-menu_item .dropdown-toggle .icon {
   margin-left: 10px;
-  color: #000000;
+  color: #fff;
 }
 .header_nav-menu_item .dropdown-list {
   display: -webkit-box;
